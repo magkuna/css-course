@@ -1,23 +1,9 @@
-#main-content div{
-    background-color: grey;
-    margin: 0 0 20px 0;
-}
-
 .static-width{
     width: 300px;
     height: 100px;
-    border-radius: 30px
-}
-
-.percentage-width{
-    width: 70%;
-    height: 50px;
-    border-radius: 10px 20px;
-}
-
-.inline-block{
-width: 100px;
-   height: 100px;
-   border-radius: 50px;
-
+    background-color: #606860;
+    background-image: url(https://theninja.blob.core.windows.net/thenetninja/images/icons/white-star.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200px;
 }
