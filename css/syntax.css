@@ -1,9 +1,7 @@
 .static-width{
     width: 300px;
     height: 100px;
-    background-color: #606860;
-    background-image: url(https://theninja.blob.core.windows.net/thenetninja/images/icons/white-star.png);
-    background-repeat: no-repeat;
-    background-position: center;
+    background: url(https://theninja.blob.core.windows.net/thenetninja/images/icons/white-star.png) no-repeat top center;
+    background-color: #686860;
     background-size: 200px;
 }
